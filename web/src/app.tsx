@@ -11,7 +11,7 @@ export function App() {
     setCount(count + 1)
   }
 
-  fetch('https://localhost:3333/summary')
+  fetch('http://localhost:3333/summary')
     .then(response => {
       return response.json()
     })
