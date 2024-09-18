@@ -38,6 +38,7 @@ No terminal siga os comandos
 - **cd ../web**
 - **npm install**
 - **npm run dev**
+
 O frontend estará disponível em http://localhost:5173
 
 ## Estrutura do Projeto
