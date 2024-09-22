@@ -29,17 +29,7 @@ Para rodar a aplicação localmente, certifique-se de ter os seguintes requisito
 - **Postman** (opcional, para testes de API)
 
 ## Configurando para execução
-No terminal siga os comandos
-- **git clone https://github.com/arturevs/in-orbit-nlw.git**
-- **cd in-orbit-nlw**
-- **cd server**
-- **npm install**
-- **docker-compose up**
-- **cd ../web**
-- **npm install**
-- **npm run dev**
-
-O frontend estará disponível em http://localhost:5173
+Vou configurar o repositório para ser hospedado no próprio Github
 
 ## Estrutura do Projeto
 
